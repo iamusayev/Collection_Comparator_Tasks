@@ -1,0 +1,29 @@
+RU
+1. Написать метод markLength4, принимающий в качестве параметра список (List) строк и размещающий строку "****" перед каждым
+четырёхсимвольным элементом. Оригинальные элементы должны остаться на месте.
+
+EN
+Write a markLength4 method that takes a List of strings as a parameter and places the string "****" before each
+four character element. The original elements must remain in place.
+
+Например:
+
+{"this", "is", "lots", "of", "fun", "for", "every", "Java", "programmer"}
+
+->
+
+{"****", "this", "is", "****", "lots", "of", "fun", "for", "every", "****", "Java", "programmer"}
+
+RU
+2. Создать класс Student, представляющий собой ученика. Добавить ему данные об имени, фамилии, возрасте и среднем балле за год.
+
+Создать список (List) учеников. Найти и вывести ученика с самым высоким средним баллом используя итератор.
+
+Отсортировать и вывести список учеников по полному имени (имя + фамилия), возрасту и среднему баллу, используя компараторы.
+
+EN
+Create a Student class representing a student. Add to him data on the name, surname, age and average score for the year.
+
+Create a list (List) of students. Find and output the student with the highest GPA using an iterator.
+
+Sort and display a list of students by full name (first name + last name), age, and GPA using comparators. The elements must remain in place.
